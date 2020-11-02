@@ -1,0 +1,17 @@
+ .container {
+text-align: center;
+}
+.weather-icons {
+margin: 2rem;
+}
+.app-title {
+font-size: 2em;
+font-weight: 800;
+}
+.temperature-valu {
+font-weight: 900;
+} 
+
+
+
+
